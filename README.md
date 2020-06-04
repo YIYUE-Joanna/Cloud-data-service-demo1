@@ -1,1 +1,2 @@
-# Cloud-data-service-demo1
+This is a simple Cloud data service demo
+# html, javascript, css
